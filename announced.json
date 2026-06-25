@@ -1,1 +1,30 @@
-{"generated":"2026-06-25T01:07:44Z","rows":[]}
+{
+  "generated": "2026-06-25T01:14:39Z",
+  "source": "NP-Vs-P-Sigma community board — verified circuit floors, family-diversity sigma",
+  "rows": [
+    {"problem":"parity","width":4,"floor":9,"families":2,"records":4},
+    {"problem":"parity","width":6,"floor":15,"families":2,"records":4},
+    {"problem":"parity","width":8,"floor":21,"families":2,"records":4},
+    {"problem":"parity","width":10,"floor":27,"families":2,"records":4},
+    {"problem":"parity","width":12,"floor":33,"families":2,"records":4},
+    {"problem":"and_all","width":4,"floor":3,"families":2,"records":2},
+    {"problem":"and_all","width":6,"floor":5,"families":2,"records":2},
+    {"problem":"and_all","width":8,"floor":7,"families":2,"records":2},
+    {"problem":"and_all","width":10,"floor":9,"families":2,"records":2},
+    {"problem":"and_all","width":12,"floor":11,"families":2,"records":2},
+    {"problem":"comparison","width":4,"floor":18,"families":2,"records":2},
+    {"problem":"comparison","width":5,"floor":23,"families":2,"records":2},
+    {"problem":"addition","width":3,"floor":22,"families":2,"records":2},
+    {"problem":"addition","width":4,"floor":31,"families":2,"records":2},
+    {"problem":"addition","width":5,"floor":40,"families":2,"records":2},
+    {"problem":"addition","width":6,"floor":49,"families":2,"records":2},
+    {"problem":"addition","width":8,"floor":67,"families":2,"records":2},
+    {"problem":"countprimes","width":4,"floor":77,"families":1,"records":2},
+    {"problem":"countprimes","width":5,"floor":219,"families":1,"records":2},
+    {"problem":"countprimes","width":6,"floor":690,"families":1,"records":2},
+    {"problem":"countprimes","width":7,"floor":1902,"families":1,"records":2},
+    {"problem":"countprimes","width":8,"floor":6030,"families":1,"records":2},
+    {"problem":"countprimes","width":9,"floor":19216,"families":1,"records":2},
+    {"problem":"countprimes","width":10,"floor":59928,"families":1,"records":2}
+  ]
+}
