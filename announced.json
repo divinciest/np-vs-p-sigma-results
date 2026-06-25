@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T02:06:46.850Z",
+  "generated": "2026-06-25T03:39:21.300Z",
   "source": "NP-Vs-P-Sigma community board — verified circuit floors, family-diversity sigma",
   "rows": [
     {
@@ -324,5 +324,6 @@
       "families": 2,
       "records": 2
     }
-  ]
+  ],
+  "hitRate": 1
 }
